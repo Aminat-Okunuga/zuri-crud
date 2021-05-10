@@ -13,10 +13,14 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aminat-Okunuga/zuri-crud.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/Aminat-Okunuga/zuri-crud#readme"
 }
